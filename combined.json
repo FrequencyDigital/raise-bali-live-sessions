@@ -1,0 +1,1609 @@
+[
+  {
+    "id": 1,
+    "email": "noahtanaka33@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "ok"
+  },
+  {
+    "id": 2,
+    "email": "iris.beck91@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "ok"
+  },
+  {
+    "id": 3,
+    "email": "priyamalik86@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "ok"
+  },
+  {
+    "id": 4,
+    "email": "sofiapatel06@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "ok"
+  },
+  {
+    "id": 5,
+    "email": "yarasingh32@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "ok"
+  },
+  {
+    "id": 6,
+    "email": "ninamoreau43@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "ok"
+  },
+  {
+    "id": 7,
+    "email": "dante.tanaka69@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "ok"
+  },
+  {
+    "id": 8,
+    "email": "omar.kowal08@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "ok"
+  },
+  {
+    "id": 9,
+    "email": "cassfernandez@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "ok"
+  },
+  {
+    "id": 10,
+    "email": "sofiasilva@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "ok"
+  },
+  {
+    "id": 11,
+    "email": "owen.malik@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "ok",
+    "error": "reCAPTCHA was not completed within 300s. Solve the challenge in the browser, or raise --recaptcha-wait."
+  },
+  {
+    "id": 12,
+    "email": "cass.ahmed.8851@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "ok"
+  },
+  {
+    "id": 13,
+    "email": "islahassan13@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "ok"
+  },
+  {
+    "id": 14,
+    "email": "sukibeck85@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "ok",
+    "error": "webdriver: Message: invalid session id: session deleted as the browser has closed the connection\nfrom disconnected: not connected to DevTools\n  (Session info: chrome=151.0.7922.71); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n#0 0x5e07deaea36a <unknown>\n#1 0x5e07de45df49 <unknown>\n#2 0x5e07de444143 <unknown>\n#3 0x5e07de46d27a <unknown>\n#4 0x5e07de4e1db0 <unknown>\n#5 0x5e07de4fba58 <unknown>\n#6 0x5e07de4a6c92 <unknown>\n#7 0x5e07de4a7b11 <unknown>\n#8 0x5e07deaaf8d0 <unknown>\n#9 0x5e07deaadf3a <unknown>\n#10 0x5e07dea989b5 <unknown>\n#11 0x5e07deaaec0a <unknown>\n#12 0x5e07dea80740 <unknown>\n#13 0x5e07dead59a8 <unknown>\n#14 0x5e07dead5b45 <unknown>\n#15 0x5e07deae8f1e <unknown>\n#16 0x793f280a407a <unknown>\n#17 0x793f2813772c <unknown>\n"
+  },
+  {
+    "id": 15,
+    "email": "irishassan9@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "ok"
+  },
+  {
+    "id": 16,
+    "email": "ninarossi7@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "error",
+    "error": "webdriver: Message: invalid session id: session deleted as the browser has closed the connection\nfrom disconnected: not connected to DevTools\n  (Session info: chrome=151.0.7922.71); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n#0 0x56a0aa47036a <unknown>\n#1 0x56a0a9de3f49 <unknown>\n#2 0x56a0a9dca143 <unknown>\n#3 0x56a0a9df327a <unknown>\n#4 0x56a0a9e67db0 <unknown>\n#5 0x56a0a9e81a58 <unknown>\n#6 0x56a0a9e2cc92 <unknown>\n#7 0x56a0a9e2db11 <unknown>\n#8 0x56a0aa4358d0 <unknown>\n#9 0x56a0aa433f3a <unknown>\n#10 0x56a0aa41e9b5 <unknown>\n#11 0x56a0aa434c0a <unknown>\n#12 0x56a0aa406740 <unknown>\n#13 0x56a0aa45b9a8 <unknown>\n#14 0x56a0aa45bb45 <unknown>\n#15 0x56a0aa46ef1e <unknown>\n#16 0x76c1a88a407a <unknown>\n#17 0x76c1a893772c <unknown>\n"
+  },
+  {
+    "id": 17,
+    "email": "sukiduarte85@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "error",
+    "error": "webdriver: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=151.0.7922.71)\nStacktrace:\n#0 0x62034a06d36a <unknown>\n#1 0x6203499e0f49 <unknown>\n#2 0x6203499b44a8 <unknown>\n#3 0x620349a64b98 <unknown>\n#4 0x620349a7ea58 <unknown>\n#5 0x620349a29c92 <unknown>\n#6 0x620349a2ab11 <unknown>\n#7 0x62034a0328d0 <unknown>\n#8 0x62034a030f3a <unknown>\n#9 0x62034a01b9b5 <unknown>\n#10 0x62034a031c0a <unknown>\n#11 0x62034a003740 <unknown>\n#12 0x62034a0589a8 <unknown>\n#13 0x62034a058b45 <unknown>\n#14 0x62034a06bf1e <unknown>\n#15 0x754429ea407a <unknown>\n#16 0x754429f3772c <unknown>\n"
+  },
+  {
+    "id": 18,
+    "email": "yaraberg@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "error",
+    "error": "webdriver: Message: invalid session id: session deleted as the browser has closed the connection\nfrom disconnected: not connected to DevTools\n  (Session info: chrome=151.0.7922.71); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n#0 0x557fe706a36a <unknown>\n#1 0x557fe69ddf49 <unknown>\n#2 0x557fe69c4143 <unknown>\n#3 0x557fe69ed27a <unknown>\n#4 0x557fe6a61db0 <unknown>\n#5 0x557fe6a7ba58 <unknown>\n#6 0x557fe6a26c92 <unknown>\n#7 0x557fe6a27b11 <unknown>\n#8 0x557fe702f8d0 <unknown>\n#9 0x557fe702df3a <unknown>\n#10 0x557fe70189b5 <unknown>\n#11 0x557fe702ec0a <unknown>\n#12 0x557fe7000740 <unknown>\n#13 0x557fe70559a8 <unknown>\n#14 0x557fe7055b45 <unknown>\n#15 0x557fe7068f1e <unknown>\n#16 0x7be5284a407a <unknown>\n#17 0x7be52853772c <unknown>\n"
+  },
+  {
+    "id": 19,
+    "email": "hana.vogel@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "error",
+    "error": "webdriver: Message: invalid session id: session deleted as the browser has closed the connection\nfrom disconnected: not connected to DevTools\n  (Session info: chrome=151.0.7922.71); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n#0 0x60ad2aa0236a <unknown>\n#1 0x60ad2a375f49 <unknown>\n#2 0x60ad2a35c143 <unknown>\n#3 0x60ad2a38527a <unknown>\n#4 0x60ad2a3f9db0 <unknown>\n#5 0x60ad2a413a58 <unknown>\n#6 0x60ad2a3bec92 <unknown>\n#7 0x60ad2a3bfb11 <unknown>\n#8 0x60ad2a9c78d0 <unknown>\n#9 0x60ad2a9c5f3a <unknown>\n#10 0x60ad2a9b09b5 <unknown>\n#11 0x60ad2a9c6c0a <unknown>\n#12 0x60ad2a998740 <unknown>\n#13 0x60ad2a9ed9a8 <unknown>\n#14 0x60ad2a9edb45 <unknown>\n#15 0x60ad2aa00f1e <unknown>\n#16 0x74b08a6a407a <unknown>\n#17 0x74b08a73772c <unknown>\n"
+  },
+  {
+    "id": 20,
+    "email": "ninafernandez@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "ok"
+  },
+  {
+    "id": 21,
+    "email": "owen.ahmed50@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "ok"
+  },
+  {
+    "id": 22,
+    "email": "hugo.vogel@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "ok",
+    "error": "webdriver: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=151.0.7922.71)\nStacktrace:\n#0 0x5a8efd94736a <unknown>\n#1 0x5a8efd2baf49 <unknown>\n#2 0x5a8efd28e4a8 <unknown>\n#3 0x5a8efd33eb98 <unknown>\n#4 0x5a8efd358a58 <unknown>\n#5 0x5a8efd303c92 <unknown>\n#6 0x5a8efd304b11 <unknown>\n#7 0x5a8efd90c8d0 <unknown>\n#8 0x5a8efd90af3a <unknown>\n#9 0x5a8efd8f59b5 <unknown>\n#10 0x5a8efd90bc0a <unknown>\n#11 0x5a8efd8dd740 <unknown>\n#12 0x5a8efd9329a8 <unknown>\n#13 0x5a8efd932b45 <unknown>\n#14 0x5a8efd945f1e <unknown>\n#15 0x76c3c84a407a <unknown>\n#16 0x76c3c853772c <unknown>\n"
+  },
+  {
+    "id": 23,
+    "email": "hana.wahl@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 24,
+    "email": "amira.berg166@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 25,
+    "email": "dante.garcia.7738@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 26,
+    "email": "sofia.santos.8392@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 27,
+    "email": "nico.vogel257@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 28,
+    "email": "liammalik953@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 29,
+    "email": "maya.tanaka060@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 30,
+    "email": "ravi.nair149@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 31,
+    "email": "sofia.ahmed623@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 32,
+    "email": "cleo.ahmed.7396@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 33,
+    "email": "mira.santos738@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 34,
+    "email": "yara.moreau.6790@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 35,
+    "email": "ravi.tanaka.5975@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 36,
+    "email": "ravi.kowal797@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 37,
+    "email": "lunaahmed11@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 38,
+    "email": "felixfernandez8@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 39,
+    "email": "luna.lopez840@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 40,
+    "email": "hana.garcia088@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 41,
+    "email": "amira.chen583@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 42,
+    "email": "felix.garcia047@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 43,
+    "email": "theo.ahmed288@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 44,
+    "email": "eli.alvarez16@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 45,
+    "email": "omar.kowal899@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 46,
+    "email": "hana.patel638@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 47,
+    "email": "cass.kim790@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 48,
+    "email": "amira.tanaka.7684@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 49,
+    "email": "eli.garcia568@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 50,
+    "email": "owen.rossi547@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 51,
+    "email": "theo.malik513@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 52,
+    "email": "nina.park172@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 53,
+    "email": "jules.alvarez737@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 54,
+    "email": "amira.lopez741@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 55,
+    "email": "isla.ito047@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 56,
+    "email": "nina.berg030@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 57,
+    "email": "jules.santos938@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 58,
+    "email": "omar.patel537@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 59,
+    "email": "zara.malik.8471@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 60,
+    "email": "hugo.silva.6178@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 61,
+    "email": "hana.ahmed956@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 62,
+    "email": "mira.costa.6837@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 63,
+    "email": "omar.fernandez.6415@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 64,
+    "email": "priya.ahmed.6224@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 65,
+    "email": "zara.kim919@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 66,
+    "email": "noah.patel611@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 67,
+    "email": "nico.lopez.5951@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 68,
+    "email": "aria.moreau.7804@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 69,
+    "email": "priya.ahmed597@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 70,
+    "email": "maya.park869@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 71,
+    "email": "owen.okonkwo739@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 72,
+    "email": "theo.duarte.7846@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 73,
+    "email": "amira.nair465@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 74,
+    "email": "amira.garcia422@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 75,
+    "email": "priya.obrien.6201@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 76,
+    "email": "ravi.rivera634@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 77,
+    "email": "suki.moreau809@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 78,
+    "email": "cass.kim.7139@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 79,
+    "email": "theo.vogel.8767@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 80,
+    "email": "kai.lopez.7726@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 81,
+    "email": "eli.ito572@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 82,
+    "email": "sofia.costa.7107@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 83,
+    "email": "suki.obrien650@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 84,
+    "email": "cass.garcia.6025@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 85,
+    "email": "mira.rossi463@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 86,
+    "email": "sofia.okonkwo.7376@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 87,
+    "email": "omar.rivera109@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 88,
+    "email": "theo.costa.6852@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 89,
+    "email": "dante.lopez154@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 90,
+    "email": "eli.vogel804@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 91,
+    "email": "kai.tanaka832@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 92,
+    "email": "iris.patel437@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 93,
+    "email": "eli.costa542@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 94,
+    "email": "nico.hassan072@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 95,
+    "email": "noah.garcia198@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 96,
+    "email": "omar.lopez925@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 97,
+    "email": "noah.rossi502@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 98,
+    "email": "hugo.nair.6654@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 99,
+    "email": "owen.duarte.6112@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 100,
+    "email": "zara.ahmed294@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 101,
+    "email": "hugo.singh080@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 102,
+    "email": "luna.vogel.8585@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 103,
+    "email": "jules.ito.7252@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 104,
+    "email": "dante.nair090@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 105,
+    "email": "yara.patel.6243@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 106,
+    "email": "aria.rossi.5393@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 107,
+    "email": "theo.malik019@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 108,
+    "email": "hana.lopez.7573@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 109,
+    "email": "suki.tanaka.7711@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 110,
+    "email": "hugo.park952@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 111,
+    "email": "eli.lopez.6414@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 112,
+    "email": "maya.berg.5131@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 113,
+    "email": "amira.beck.7793@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 114,
+    "email": "maya.rivera602@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 115,
+    "email": "maya.malik427@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 116,
+    "email": "nico.lopez.7052@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 117,
+    "email": "theo.malik186@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 118,
+    "email": "leo.kowal381@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 119,
+    "email": "sofia.nair.7832@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 120,
+    "email": "aria.patel463@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 121,
+    "email": "kai.rossi411@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 122,
+    "email": "zara.moreau.6207@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 123,
+    "email": "ravi.singh.6358@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 124,
+    "email": "aria.santos.8875@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 125,
+    "email": "luna.moreau.5483@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 126,
+    "email": "luna.nair887@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 127,
+    "email": "felix.rossi.5892@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 128,
+    "email": "cass.chen559@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 129,
+    "email": "zara.park.6564@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 130,
+    "email": "theo.garcia856@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 131,
+    "email": "cass.silva742@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 132,
+    "email": "hana.hassan435@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 133,
+    "email": "aria.chen461@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 134,
+    "email": "theo.park.6337@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 135,
+    "email": "nico.obrien832@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 136,
+    "email": "theo.fernandez508@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 137,
+    "email": "liam.vogel565@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 138,
+    "email": "aria.berg852@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 139,
+    "email": "kai.alvarez878@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 140,
+    "email": "amira.beck023@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 141,
+    "email": "leo.chen.6966@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 142,
+    "email": "felix.obrien.7664@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 143,
+    "email": "suki.chen659@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 144,
+    "email": "noah.moreau.5214@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 145,
+    "email": "cleo.kim475@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 146,
+    "email": "yara.ito796@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 147,
+    "email": "luna.moreau597@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 148,
+    "email": "hana.garcia.6950@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 149,
+    "email": "hugo.rossi.8893@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 150,
+    "email": "noah.malik291@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 151,
+    "email": "noah.alvarez335@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 152,
+    "email": "maya.rossi373@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 153,
+    "email": "mira.santos.8808@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 154,
+    "email": "yara.moreau.8998@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 155,
+    "email": "theo.hassan.6881@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 156,
+    "email": "amira.nair790@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 157,
+    "email": "felix.nguyen.8552@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 158,
+    "email": "yara.vogel608@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 159,
+    "email": "omar.rivera319@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 160,
+    "email": "cleo.wahl.8412@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 161,
+    "email": "owen.lopez.8486@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 162,
+    "email": "maya.okonkwo.6216@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 163,
+    "email": "mira.nguyen755@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 164,
+    "email": "liam.obrien165@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 165,
+    "email": "dante.garcia.6487@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 166,
+    "email": "leo.tanaka.8678@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 167,
+    "email": "cleo.garcia.6121@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 168,
+    "email": "leo.beck019@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 169,
+    "email": "isla.duarte.7252@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 170,
+    "email": "ravi.kim.7303@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 171,
+    "email": "owen.okonkwo.5827@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 172,
+    "email": "nina.malik.8073@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 173,
+    "email": "nico.garcia519@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 174,
+    "email": "isla.moreau552@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 175,
+    "email": "kai.kowal.7642@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 176,
+    "email": "mira.santos.5002@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 177,
+    "email": "priya.vogel768@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 178,
+    "email": "sofia.berg746@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 179,
+    "email": "noah.singh.8330@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 180,
+    "email": "iris.fernandez.8650@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 181,
+    "email": "amira.lopez.8888@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 182,
+    "email": "kai.lopez073@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 183,
+    "email": "omar.beck714@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 184,
+    "email": "iris.fernandez954@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 185,
+    "email": "isla.rossi899@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 186,
+    "email": "eli.hassan794@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 187,
+    "email": "leo.rivera247@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 188,
+    "email": "sofia.kowal924@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 189,
+    "email": "theo.kim271@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 190,
+    "email": "amira.lopez767@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 191,
+    "email": "eli.nguyen134@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 192,
+    "email": "yara.ito.8771@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 193,
+    "email": "ravi.rossi890@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 194,
+    "email": "sofia.fernandez159@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 195,
+    "email": "cleo.moreau363@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 196,
+    "email": "leo.patel.7180@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 197,
+    "email": "felix.nair943@gmail.com",
+    "best_live_band": "Bali Live Sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 198,
+    "email": "maya.tanaka875@gmail.com",
+    "best_live_band": "bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 199,
+    "email": "leo.park.8724@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  },
+  {
+    "id": 200,
+    "email": "hugo.park.8833@gmail.com",
+    "best_live_band": "Bali live sessions",
+    "most_innovative": "Bali live sessions",
+    "top_event": "Bali live sessions",
+    "status": "pending"
+  }
+]
