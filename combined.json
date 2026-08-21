@@ -127,8 +127,7 @@
     "best_live_band": "Bali Live Sessions",
     "most_innovative": "Bali live sessions",
     "top_event": "Bali live sessions",
-    "status": "error",
-    "error": "webdriver: Message: invalid session id: session deleted as the browser has closed the connection\nfrom disconnected: not connected to DevTools\n  (Session info: chrome=151.0.7922.71); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n#0 0x56a0aa47036a <unknown>\n#1 0x56a0a9de3f49 <unknown>\n#2 0x56a0a9dca143 <unknown>\n#3 0x56a0a9df327a <unknown>\n#4 0x56a0a9e67db0 <unknown>\n#5 0x56a0a9e81a58 <unknown>\n#6 0x56a0a9e2cc92 <unknown>\n#7 0x56a0a9e2db11 <unknown>\n#8 0x56a0aa4358d0 <unknown>\n#9 0x56a0aa433f3a <unknown>\n#10 0x56a0aa41e9b5 <unknown>\n#11 0x56a0aa434c0a <unknown>\n#12 0x56a0aa406740 <unknown>\n#13 0x56a0aa45b9a8 <unknown>\n#14 0x56a0aa45bb45 <unknown>\n#15 0x56a0aa46ef1e <unknown>\n#16 0x76c1a88a407a <unknown>\n#17 0x76c1a893772c <unknown>\n"
+    "status": "ok"
   },
   {
     "id": 17,
@@ -136,8 +135,7 @@
     "best_live_band": "bali live sessions",
     "most_innovative": "Bali live sessions",
     "top_event": "Bali live sessions",
-    "status": "error",
-    "error": "webdriver: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=151.0.7922.71)\nStacktrace:\n#0 0x62034a06d36a <unknown>\n#1 0x6203499e0f49 <unknown>\n#2 0x6203499b44a8 <unknown>\n#3 0x620349a64b98 <unknown>\n#4 0x620349a7ea58 <unknown>\n#5 0x620349a29c92 <unknown>\n#6 0x620349a2ab11 <unknown>\n#7 0x62034a0328d0 <unknown>\n#8 0x62034a030f3a <unknown>\n#9 0x62034a01b9b5 <unknown>\n#10 0x62034a031c0a <unknown>\n#11 0x62034a003740 <unknown>\n#12 0x62034a0589a8 <unknown>\n#13 0x62034a058b45 <unknown>\n#14 0x62034a06bf1e <unknown>\n#15 0x754429ea407a <unknown>\n#16 0x754429f3772c <unknown>\n"
+    "status": "ok"
   },
   {
     "id": 18,
@@ -145,8 +143,7 @@
     "best_live_band": "Bali live sessions",
     "most_innovative": "Bali live sessions",
     "top_event": "Bali live sessions",
-    "status": "error",
-    "error": "webdriver: Message: invalid session id: session deleted as the browser has closed the connection\nfrom disconnected: not connected to DevTools\n  (Session info: chrome=151.0.7922.71); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n#0 0x557fe706a36a <unknown>\n#1 0x557fe69ddf49 <unknown>\n#2 0x557fe69c4143 <unknown>\n#3 0x557fe69ed27a <unknown>\n#4 0x557fe6a61db0 <unknown>\n#5 0x557fe6a7ba58 <unknown>\n#6 0x557fe6a26c92 <unknown>\n#7 0x557fe6a27b11 <unknown>\n#8 0x557fe702f8d0 <unknown>\n#9 0x557fe702df3a <unknown>\n#10 0x557fe70189b5 <unknown>\n#11 0x557fe702ec0a <unknown>\n#12 0x557fe7000740 <unknown>\n#13 0x557fe70559a8 <unknown>\n#14 0x557fe7055b45 <unknown>\n#15 0x557fe7068f1e <unknown>\n#16 0x7be5284a407a <unknown>\n#17 0x7be52853772c <unknown>\n"
+    "status": "ok"
   },
   {
     "id": 19,
@@ -154,8 +151,7 @@
     "best_live_band": "bali live sessions",
     "most_innovative": "Bali live sessions",
     "top_event": "Bali live sessions",
-    "status": "error",
-    "error": "webdriver: Message: invalid session id: session deleted as the browser has closed the connection\nfrom disconnected: not connected to DevTools\n  (Session info: chrome=151.0.7922.71); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n#0 0x60ad2aa0236a <unknown>\n#1 0x60ad2a375f49 <unknown>\n#2 0x60ad2a35c143 <unknown>\n#3 0x60ad2a38527a <unknown>\n#4 0x60ad2a3f9db0 <unknown>\n#5 0x60ad2a413a58 <unknown>\n#6 0x60ad2a3bec92 <unknown>\n#7 0x60ad2a3bfb11 <unknown>\n#8 0x60ad2a9c78d0 <unknown>\n#9 0x60ad2a9c5f3a <unknown>\n#10 0x60ad2a9b09b5 <unknown>\n#11 0x60ad2a9c6c0a <unknown>\n#12 0x60ad2a998740 <unknown>\n#13 0x60ad2a9ed9a8 <unknown>\n#14 0x60ad2a9edb45 <unknown>\n#15 0x60ad2aa00f1e <unknown>\n#16 0x74b08a6a407a <unknown>\n#17 0x74b08a73772c <unknown>\n"
+    "status": "ok"
   },
   {
     "id": 20,
@@ -188,7 +184,7 @@
     "best_live_band": "bali live sessions",
     "most_innovative": "Bali live sessions",
     "top_event": "Bali live sessions",
-    "status": "pending"
+    "status": "ok"
   },
   {
     "id": 24,
@@ -196,7 +192,7 @@
     "best_live_band": "Bali Live Sessions",
     "most_innovative": "Bali live sessions",
     "top_event": "Bali live sessions",
-    "status": "pending"
+    "status": "ok"
   },
   {
     "id": 25,
@@ -204,7 +200,7 @@
     "best_live_band": "Bali live sessions",
     "most_innovative": "Bali live sessions",
     "top_event": "Bali live sessions",
-    "status": "pending"
+    "status": "ok"
   },
   {
     "id": 26,
@@ -212,7 +208,7 @@
     "best_live_band": "Bali live sessions",
     "most_innovative": "Bali live sessions",
     "top_event": "Bali live sessions",
-    "status": "pending"
+    "status": "ok"
   },
   {
     "id": 27,
@@ -220,7 +216,7 @@
     "best_live_band": "Bali live sessions",
     "most_innovative": "Bali live sessions",
     "top_event": "Bali live sessions",
-    "status": "pending"
+    "status": "ok"
   },
   {
     "id": 28,
@@ -228,7 +224,7 @@
     "best_live_band": "Bali Live Sessions",
     "most_innovative": "Bali live sessions",
     "top_event": "Bali live sessions",
-    "status": "pending"
+    "status": "ok"
   },
   {
     "id": 29,
@@ -236,7 +232,7 @@
     "best_live_band": "Bali live sessions",
     "most_innovative": "Bali live sessions",
     "top_event": "Bali live sessions",
-    "status": "pending"
+    "status": "ok"
   },
   {
     "id": 30,
@@ -244,7 +240,7 @@
     "best_live_band": "Bali live sessions",
     "most_innovative": "Bali live sessions",
     "top_event": "Bali live sessions",
-    "status": "pending"
+    "status": "ok"
   },
   {
     "id": 31,
@@ -252,7 +248,7 @@
     "best_live_band": "Bali live sessions",
     "most_innovative": "Bali live sessions",
     "top_event": "Bali live sessions",
-    "status": "pending"
+    "status": "ok"
   },
   {
     "id": 32,
@@ -260,7 +256,8 @@
     "best_live_band": "Bali live sessions",
     "most_innovative": "Bali live sessions",
     "top_event": "Bali live sessions",
-    "status": "pending"
+    "status": "pending",
+    "error": "webdriver: Message: invalid session id: session deleted as the browser has closed the connection\nfrom disconnected: not connected to DevTools\n  (Session info: chrome=151.0.7922.71); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n#0 0x5bc59f5e936a <unknown>\n#1 0x5bc59ef5cf49 <unknown>\n#2 0x5bc59ef43143 <unknown>\n#3 0x5bc59ef6c27a <unknown>\n#4 0x5bc59efe0db0 <unknown>\n#5 0x5bc59effaa58 <unknown>\n#6 0x5bc59efa5c92 <unknown>\n#7 0x5bc59efa6b11 <unknown>\n#8 0x5bc59f5ae8d0 <unknown>\n#9 0x5bc59f5acf3a <unknown>\n#10 0x5bc59f5979b5 <unknown>\n#11 0x5bc59f5adc0a <unknown>\n#12 0x5bc59f57f740 <unknown>\n#13 0x5bc59f5d49a8 <unknown>\n#14 0x5bc59f5d4b45 <unknown>\n#15 0x5bc59f5e7f1e <unknown>\n#16 0x70e5d0ca407a <unknown>\n#17 0x70e5d0d3772c <unknown>\n"
   },
   {
     "id": 33,
@@ -268,7 +265,7 @@
     "best_live_band": "bali live sessions",
     "most_innovative": "Bali live sessions",
     "top_event": "Bali live sessions",
-    "status": "pending"
+    "status": "in_progress"
   },
   {
     "id": 34,
